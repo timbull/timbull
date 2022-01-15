@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @timbull
 - 👀 I’m interested in how technology can help refugees
-- 🌱 I’m currently learning flutter & dart
-- 💞️ I’m looking for flutter contributors for an idea to help refugees practice English
+- 🌱 I’m dabbling in Python again
 - 📫 Reach me [@timbull on Twitter](https://twitter.com/timbull)
 
 <!---
