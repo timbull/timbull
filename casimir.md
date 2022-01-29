@@ -13,72 +13,38 @@ Wormholes, tears through space time, connect the univers of Discord Servers. The
 
 In our universe, a Discord Server is analogous to the home planet of a tribe (think Discord Server when you read World from now on). To play Casimir, you "register" in a server and now compete and represent this world.
 
-By entering the Casimir wormhole from the comfort of their server, players can travel and explore the universe of servers to mine, trade and battle for resources that they can use for a variety of purposes within game, levelling up their home world and community. We initially thought to tie this more directly to NFTs and promote whitelist access as the ultimate prize - we haven't ruled this out, but instead we want the game to be intrinsically fun without a specific focus on NFTs. If NFT whitelists could be a game reward, equally other digital or real world experiences could be too - the competition rewards are separate from the intrinsic game rewards, we want people to play because they like it, not just because they might win X.
+By entering the Casimir wormhole from the comfort of their server, players can travel and explore the universe of servers to mine, trade and battle for resources that they can use for a variety of purposes within game, levelling up their home world and community. 
 
-## Core resources
-There are three core resources in Casimir. Each resource exists in different quantities on the different worlds, according to their size (the number of members of their discord server.) These are:
+NB - We initially thought to tie this more directly to NFTs and promote whitelist access as the ultimate prize - we haven't ruled this out, but instead we want the game to be intrinsically fun without a specific focus on NFTs. If NFT whitelists could be a game reward, equally other digital or real world experiences could be too. The competition rewards (if any) need to be separate from the intrinsic game rewards, we want people to play because they like it, not just because they might win X.
 
-* *$Hopium*: This is the rarest resource in Casimir. It exists in the greatest quantities at the start of a new world when it has very few inhabitants. $hopium is used to access mints / NFT giveaways.
-*  *$lfg* (liquid fueleum gas): This is used to “force” open a wormhole. e.g. create the gateway from one world to another.
-* *$moons*: The largest worlds are rich in $moons. You farm $moons to stabilise the Casimir wormholes and maintain connections to other servers.
-The collection and spending of these resources forms the basic gameplay loop.
+## Gameplay inspiration
 
-## World Tiers
-Tier 3 (Smallest): $hopium - x available per day mining. Small quantity of $lfg allocated to each member. 
+Checkout the following games for inspiration
 
-Tier 2 (Medium): $lfg - x available per day for mining. Small quantity of $moons allocated to each member. 
+1. Elite Dangerous, Eve Online - Space Trading Games.
+2. Adventure Capital on mobile - Classic Idle Game.
+3. CBCreepz - Blockchain based P2E game.
+4. Satisfactory / Factorio - Mining and automation.
+5. Classic MUDs - Moria, dawrf fortress etc
 
-Tier 1(Biggest): $moons - x available per day for mining. T1 emit massive electronic noise, it’s expensive to open a connection to a T1 world, it’s even MORE expensive to create a wormhole FROM a T1 world, overcoming the noise.
+It's a grab bag of games and styles - but I think that the commonality here is that they all involve a sense of progress through developing and trading up...
 
-It’s easier for a T3 -> T2 -> T1 to connect than the other way T1 -> T2 -> T3. In the lore this is because of the noise that bigger worlds exude. Discrepancy in size also matter. T1 - T1 is less expensive than T1 -> T3, but more expensive than T3 - T3.
+## Gameplay Loop
 
-## Basic Casimir World Journey
-1. New worlds start at Tier 3, rich in $hopium. Unfortunately, due to “reasons” it’s not possible to mine your own $hopium, so they have to start exploring the metaverse to find other servers rich in $hopium to mine.
-2. A ninion knows of a server in the metaverse and its address (through ‘real life’) so they spend their limited $lfg to connect to a known Tier 2 world. If none known, they can “explore” and a connection will be discovered. Initially connections are only made to Tier 2 worlds, Tier 1 worlds will require significant $lfg that’s not available yet.
-3. The ninion can now warp to the new world and mine for $lfg.
-4. The Tier 2 world can see the connection on their server and is now able to warp to the Tier 3 world and mine for $hopium.
-5. When the Tier 3 world has acquired enough $lfg, they can create more connections to other Tier 2 worlds OR they can pool their $lfg to connect to a Tier 1 world.
-6. Tier 2 worlds are in a unique position where they will potentially get a lead on $hopium with incoming connections. They want to defend their access to $hopium by protecting their wormholes, while at the same time they need access to $moons to maintain it.
-7. Tier 1 worlds are desperate for $hopium. So how do they find it? When mining on T2 worlds for $lfg, they can discover connections to T3 worlds. They can then spend a very large amount of $lfg to open the connection from the T1 to the T3 world to mine $hopium directly.
-8. All worlds need to spend $moons in order to preserve wormholes. Because of the energy emitted by Tier 1 worlds, they spend more to maintain a wormhole than a Tier 3 world.
+As an idle game the basic loop is something like:
 
-### Tier Goals
-At a high level, the goals of each tier are as follows:
+1. Action e.g. mine
+2. Time
+3. Reward
 
-**Tier 3**
+Each level rewards with faster accumulation of resources at a cost of the resources earned. For example, a simple levelling loop for mining might be:
 
-Discovery.
+1. /mine - takes 5 seconds, returns 5 minerals.
+2. /upgrade - Costs 25 minerals to upgrade...
+3. /mine - takes 10 seconds, returns 20 minerals...
+4. /upgrade - Costs 100 minerals to upgrade...
 
-The motivation of a Tier 3 world is to be discovered. They have a resource that people want to access ($hopium). They do this in two ways:
-1. Connect to Tier 2 worlds and mine $lfg to eventually build a connection to a Tier 1 world.
-2. Once connected to a Tier 1 world, mine for $moons to stabilise and maintain their wormholes.
-
-**Tier 2**
-
-Grow.
-
-The motivation of a Tier 2 world is to grow. The want to reach Tier 1 and the way they do that is to find more ninions, which they acquire from Tier 1 worlds discovering them. At the same time they want to protect their access to $hopium which they are the prime conduit for, but they need $moons to maintain this. They want to:
-
-1. Mine Tier 3 worlds for $hopium.
-2. Mine Tier 1 worlds for $moons to stabilise and maintain wormholes.
-
-**Tier 1**
-
-Aquire Hopium and battle for supremacy
-
-The motivation of a Tier 1 world is to acquire $hopium to increase rewards for members and to battle other Tier 1 worlds for more and prove the power of their community.
-
-## Gameplay Style
-Casimir is at its core, a text based adventure game, but one that’s played directly through Discord with simple bot commands. Think Zork for Discord, but inspired by Dungeons of Moria, Angband or Elite Dangerous. It incorporates elements of the “Idle Gaming” mobile genre alongside a basic “RPS” or “RoShamBo” mechanic for battles.
-
-The goal of the game is to amass resources by raiding other Discord servers via the “Casimir” Wormhole. Overall the game is meant to be quirly and amusing - a simple way to spend time that combines risk and reward with a gameplay loop that makes you feel like you're benefiting your community.
-
-## Setup
-Server admins install the Casimir Bot in a channel inside their Discord Server. 
-
-Server Admins configure some basic rules around their communities and the language for specific actions. For example, Frens are “cute” and their goal is making “frens across the universe”, they probably aren’t going to beat the shit out of you in battle. Renegades are tatted up bad arse mofos (with a heart of gold), they aren’t going to hug you to death.
-
-Server Tiers are set automatically by the number of members.
+etc...
 
 ## Basic Gameplay Idea
 
