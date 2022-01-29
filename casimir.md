@@ -1,19 +1,19 @@
 # CASIMIR
 
-Casimir is a game that integrates natively into Discord and allows Discord Server members to play directly from their Discord client. It’s a text based metaverse operating at the fingertips of NFT community members where they spend the majority of their time.
+Casimir is an "idle multiplary" game set in a futuristic space universe that integrates natively into Discord. It allows Discord Server members to play directly from their Discord client. It’s a text based universe operating at the fingertips of Discord community members.
 
-As NFTs have exploded in popularity, Discord is the clear the winner in the space for building community, something that’s critical regardless of wether you’re in it for the frens, the ownership in a DAO or just to trade.
+At it's core, it's a space exploration and resource gathering game, where discord servers compete both individually and collectively to control resources. It draws inspiration from games like Elite Dangerous and EVE Online, but adds idle mechanics (time based and resource based gating) which is perfect for the way people use Discord.
 
-Engagement in Discord is incredible. Servers regularly attract 10’s of 1000’s of users, with multiple 100’s to 10’000’s online at any one time. People hang out all day, on their phones, on their computers, in the office or on the toilet. No one wants to miss a thing, the next mint or the next moon.
+As NFTs have exploded in popularity, Discord is the clear the winner in the space for building community, beyond just gaming, it's become something that’s critical to how people interact with each other in communities. Engagement in Discord is incredible. People hang out all day, on their phones, on their computers, in the office or on the toilet. Servers regularly attract 10’s to 10'000’s of users, but in a community space like NFTs, it's hard to hold attention too.
 
-Casimir taps into this energy. For server members, Casimir is a fun way to spend time, discover new projects, access whitelists for mints and prove their projects prowess. For server owners, Casimir provides an activity for members to engage around. It promotes stickiness and through its server-to-server battle mode, discoverability.
+Casimir taps into this energy. For server members, Casimir is a fun way to spend time and engage with the community while having fun. For server owners, Casimir provides an activity that brings members back. It promotes stickiness and through its server-to-server competitive mechanics, promotes discoverability of new communities while also promoting loyalty to your own community.
 
 ## Back story
-Wormholes, tears through space time, connect the metaverse of NFTs. The Casimir effect is the quantum stabilising force that allows the wormholes between the various Discord Servers to be maintained.
+Wormholes, tears through space time, connect the univers of Discord Servers. The Casimir effect is the quantum stabilising force that allows the wormholes between the various Discord Servers to be maintained.
 
-In our metaverse, a Discord Server is analogous to the home planet of the denizens of the NFT world (think Discord Server when you read World from now on). Renegades live on Hellabore, Spiky Space Starfish on Lepajen, Bored Apes in New York.
+In our universe, a Discord Server is analogous to the home planet of a tribe (think Discord Server when you read World from now on). To play Casimir, you "register" in a server and now compete and represent this world.
 
-By entering the Casimir wormhole from the comfort of their server, NFT minions (ninions) can go on adventures, exploring the universe of NFTs to mine and battle for resources that they can use for a variety of purposes, including to access whitelists or to allow their own communities to grow.
+By entering the Casimir wormhole from the comfort of their server, players can travel and explore the universe of servers to mine, trade and battle for resources that they can use for a variety of purposes within game, levelling up their home world and community. We initially thought to tie this more directly to NFTs and promote whitelist access as the ultimate prize - we haven't ruled this out, but instead we want the game to be intrinsically fun without a specific focus on NFTs. If NFT whitelists could be a game reward, equally other digital or real world experiences could be too - the competition rewards are separate from the intrinsic game rewards, we want people to play because they like it, not just because they might win X.
 
 ## Core resources
 There are three core resources in Casimir. Each resource exists in different quantities on the different worlds, according to their size (the number of members of their discord server.) These are:
